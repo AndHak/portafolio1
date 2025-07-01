@@ -22,6 +22,7 @@ export default function DeveloperProfileCard() {
     "SQLite3",
     "Git",
     "GitHub",
+    "Flutter",
   ]
 
   const socialLinks = [
