@@ -46,7 +46,7 @@ export default function DeveloperProfileCard() {
           <div className="relative group overflow-visible">
             <div className="w-64 h-64 rounded-2xl overflow-vissible border-4 border-gray-700 transition-all duration-300 group-hover:border-cyan-400 group-hover:shadow-lg group-hover:shadow-cyan-400/20">
               <img
-                src="../../public/luffy.png"
+                src="/luffy.png"
                 alt="Luffy"
                 className="overflow-visible relative h-[140%] w-[140%] z-9 object-cover transition-transform duration-300 group-hover:scale-110"
               />
